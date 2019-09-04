@@ -21,13 +21,12 @@ avatar : https://i.ibb.co/6ZhkC1y/pp.jpg
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: Blog
-    url: /
+    url: /blog
   - name: About
     url: /about
   - name: Archive
     url: /archive
-  - name: Tags
-    url: /tags
+
 
 # Pagination
 paginate: 5
