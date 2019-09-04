@@ -21,7 +21,7 @@ avatar : https://i.ibb.co/6ZhkC1y/pp.jpg
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: Blog
-    url: /blog
+    url: /
   - name: About
     url: /about
   - name: Archive
