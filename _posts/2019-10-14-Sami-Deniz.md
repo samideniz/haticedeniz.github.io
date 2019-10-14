@@ -15,3 +15,6 @@ Ayıraç için başa --- konur
 
 
 > Alıntı yapmak için başa > konur.
+
+
+[Google](https://www.google.com "Google gir")
