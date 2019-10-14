@@ -10,12 +10,7 @@ comments: true
 ### En Küçük Kalın Yazmak İçin başa ### işaret konur
 
 ---
+---
 Ayıraç
 
-___
 
-Ayıraç1
-
-*** 
-
-Ayıraç2
