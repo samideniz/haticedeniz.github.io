@@ -11,4 +11,4 @@ comments: true
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=ABADBa) `#1589F0
 
-span style="color:orange;">Word up</span>
+<span style="color:orange;">Word up</span>
