@@ -11,9 +11,8 @@ comments: true
 
 Yazı yazarken bir şey eğri yazmak için *yazının ve başına yıldız konulur yazılır.* 
 
-   Yazı yazarken bir şey vurgulamak için **yazının başına ve sonuna iki yıldız yazılır.** 
+Yazı yazarken bir şey vurgulamak için **yazının başına ve sonuna iki yıldız yazılır.** 
 
-Abasdad
 
 
 ---
