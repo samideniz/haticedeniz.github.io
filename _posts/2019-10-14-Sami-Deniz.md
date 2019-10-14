@@ -1,3 +1,1 @@
-#ABC
-##ABCD
-###ABDAs
+[b]abadsa[/b]
