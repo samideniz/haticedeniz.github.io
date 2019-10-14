@@ -17,4 +17,4 @@ Ayıraç için başa --- konur
 > Alıntı yapmak için başa > konur.
 
 Linke girmek için 
-> [Google](https://www.google.com "Google gir")
+> [Google](https://www.google.com)
