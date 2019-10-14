@@ -9,7 +9,9 @@ comments: true
 ## Orta Kalın Yazmak İçin başa ## işaret konur
 ### En Küçük Kalın Yazmak İçin başa ### işaret konur
 
-Yazı yazarken bir şey eğri yazmak için *yazının ve başına yıldız konulur yazılır* Yazı yazarken bir şey vurgulamak için **yazının başına ve sonuna iki yıldız yazılır.** Evetttt
+Yazı yazarken bir şey eğri yazmak için *yazının ve başına yıldız konulur yazılır.* 
+
+Yazı yazarken bir şey vurgulamak için **yazının başına ve sonuna iki yıldız yazılır.** 
 
 Abasdad
 
