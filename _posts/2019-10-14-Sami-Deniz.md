@@ -9,6 +9,13 @@ comments: true
 ## Orta Kalın Yazmak İçin başa ## işaret konur
 ### En Küçük Kalın Yazmak İçin başa ### işaret konur
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=ABADBa) `#1589F0
+---
+Ayıraç
 
-<span style="color:orange;">Word up</span>
+___
+
+Ayıraç1
+
+*** 
+
+Ayıraç2
