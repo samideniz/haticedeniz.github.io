@@ -5,4 +5,4 @@ tags: []
 comments: true
 ---
 
-Herkese nice bayramlar
+29 Ekim Cumhuriyet Bayramımız kutlu olsun.
