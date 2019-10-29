@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deneme2"
+title: "Cumhuriyet Bayramı"
 tags: []
 comments: true
 ---
