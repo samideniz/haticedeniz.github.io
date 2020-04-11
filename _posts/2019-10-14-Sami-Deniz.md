@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Rehber"
+title: "İletişim"
 tags: []
 comments: true
 ---
 
 # En Büyük Kalın Yazmak İçin Başa # işaret konur
+# Hatice DENİZ 05323735483
 ## Orta Kalın Yazmak İçin başa ## işaret konur
+## İzmir/Bayraklı
 ### En Küçük Kalın Yazmak İçin başa ### işaret konur
 
 Yazı yazarken bir şey eğri yazmak için *yazının ve başına yıldız konulur yazılır.* 
