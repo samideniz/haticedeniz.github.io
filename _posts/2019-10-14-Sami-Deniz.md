@@ -7,8 +7,8 @@ comments: true
 
 
 # Hatice DENİZ 05323735483
-## İzmir/Bayraklı
-
+### Bayraklı/İzmir
+###haticedeniz.com
 
 Yazı yazarken bir şey eğri yazmak için *yazının ve başına yıldız konulur yazılır.* 
 
