@@ -3,11 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Ability of leadership, analytical thinking approach towards problems and communication skills are my outstanding personal features. I am an experienced candidate for senior positions and so far has been succeeded in and team management tasks, engineering and supply chain. I am also talented to use business English quite fluently in writing and speaking mode, and also inclined to learn other foreign languages in short time in case of necessary conditions.
-
-My engineering education made me gain the strong analytical skills. I took variety courses during my education related to the engineering and social areas caught the opportunity to implement in the leading companies 
-
-In the short run, my objective is to develop my skills and broaden my vision, apply my experiences and leadership qualifications. In the long run, my aim is to learn new things with my passion. being successful and provide overall career enhancement. 
+Ankara Üniversitesi Dil Tarih Coğrafya Bölümü mezunuyum. Kendimi hareketli, içi içine sığmayan ve kendisi ile barışık birisi olarak tasvir edemem, bunlar için çaba gösteren, ailesi ilk önceliği olan bir yapım vardır. Evde olmayı evde vakit geçirmeyi çok sevdiğim aşikardır.Bodrumlu olup Bodrum'u seven, eşi için İzmir'de oturan,İzmir'i büyükşehir olduğu için ve olanaklar daha iyi olduğu için tercih ediyor ve ikamet etmeye devam ediyorum tabiki özgürlüğümü burada daha iyi kullanabiliyorum. Şöyle hayatımla ilgili güzel bir özet geçecek olursam. Eşimle Bodrum'da tanışıp onunla Bodrum'da evlenip çok güzel bir düğün yapıp ve eğlenceli bir hayatı ve coğrafya öğretmenliği yaparken herşeyi bırakıp, Köyceğiz'e gittim. Buranın bu kadar güzel olacağanı ve alışacağımı düşünemezdim. Çok güzel insanlar ve yerler tanıdım burada. Daha sonra İzmir maceramız başladı. İzmir'de en mutlu olduğum an sanırım oğlumun dünyaya geldiği andır. Ne kadar Bodrum'da doğumu gerçekleştirsem de, Ne kadar sıkılsam da yorulsam da çok güzel bir birliktelik yaşıyoruz ailecek İzmir'de. Köyceğiz'de Akyaka ve Yuvarlakçay her zaman number 1 olarak kalacaktır. Tabiki Marmaris Selimiye ve Datça diğer favorilerim arasında.
 
 ### More Information
 
@@ -15,4 +11,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[samideniz@cci.com.tr](mailto:samideniz@cci.com.tr)
+[sami.deniz@cci.com.tr](mailto:sami.deniz@cci.com.tr)
