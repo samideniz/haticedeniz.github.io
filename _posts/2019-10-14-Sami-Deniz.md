@@ -6,9 +6,8 @@ comments: true
 ---
 
 
-## Hatice DENİZ 05323735483
+## Hatice DENİZ 
 ### Bayraklı/İzmir
 haticedeniz.com
- 
-
-> [Google](https://haticedeniz.com)
+05323735483
+(https://haticedeniz.com)
